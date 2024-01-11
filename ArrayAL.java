@@ -1,5 +1,5 @@
 //Michael, Tom, Thomas
-public class ArrayAL {//The class for problem 4
+public class ArrayAL {//The class for problem 1
     public static boolean atLeastOneOdd(int[] number){//go through the array and determine if there is odd number
         for(int i : number){
             if(i%2==1) return true;
